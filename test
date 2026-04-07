@@ -1,0 +1,22 @@
+AI-Assisted Application Engineer
+Principle Software Engineer
+Basic Information
+Job Requisition: R276893
+Job Level: i8
+Number of Openings: 4
+Job Summary and Responsibilities
+Job Summary: As a Principal AI Application Engineer, you will lead the adoption of AI-assisted engineering practices to accelerate the development of Dell’s solution platforms. Your role focuses on leveraging AI tools, LLM-based coding assistants, and intelligent automation to improve software delivery speed, quality, and innovation. You will work closely with platform and product teams to embed AI-driven capabilities into the engineering lifecycle, ensuring Dell solutions remain competitive and future-ready.
+
+Key Responsibilities: • Drive the integration of AI-assisted development tools (e.g., code generation, intelligent testing, automated documentation) into Dell’s software engineering workflows. • Build and maintain automation frameworks and pipelines that leverage AI for code quality, security scanning, and performance optimization. • Collaborate with platform engineers to incorporate AI-driven enhancements into Dell solution platforms (e.g., OpenShift, VxRail, VMware ecosystem). • Develop reference implementations and best practices for AI-assisted engineering across multiple product teams. • Mentor engineers on effective use of AI tools to improve productivity and maintain high-quality standards. • Continuously evaluate emerging AI technologies and recommend adoption strategies to improve engineering efficiency.
+
+Required Skills
+Essential Requirements: • Master’s degree in Computer Science or related field with 5+ years of experience in software engineering or platform development. • Strong experience in full-stack development and proficiency in languages like Python, Java, or Go. • Hands-on experience with AI-assisted development tools (e.g., GitHub Copilot, CodeWhisperer) or integrating LLM-based services into engineering workflows. • Proficiency in containerization (Docker, Kubernetes) and deploying applications on platforms like OpenShift. • Solid understanding of CI/CD pipelines, DevOps practices, and enterprise software delivery.
+
+Desirable Requirements
+• Experience implementing AI-driven automation for testing, security, or performance optimization. • Familiarity with Dell solution platforms (e.g., VxRail, PowerStore, PowerFlex) and enterprise infrastructure. • Familiarity with virtualization and hypervisor technologies, especially VMware vSphere/ESXi, vCenter, and related ecosystem components. • Knowledge of hyper-converged infrastructure (HCI) and enterprise storage solutions, including VMware vSAN and Dell PowerStore. • Understanding of network virtualization and SDN technologies, particularly VMware NSX, including concepts like VXLAN, distributed switching, and micro-segmentation. • Experience with Kubernetes/OpenShift for container orchestration and integration with virtualized environments. • Familiarity with infrastructure automation tools (e.g., Ansible, Terraform, Helm) and CI/CD practices for enterprise environments.
+
+Keywords
+AI-assisted engineering, CI/CD, DevOps, code generation, GitHub Copilot, Python/Java/Go, Kubernetes, OpenShift, Dell platforms (VxRail), VMware ecosystem, infrastructure-as-code (Ansible, Terraform).
+
+Scan Questions
+5+ years experience with Master's degree in computer science - YES/NO Hands-on experience using AI-assisted development tools (e.g., GitHub Copilot, CodeWhisperer) in software development workflows - YES/NO Experience integrating LLM-based services or AI tools into CI/CD pipelines for automation (e.g., automated testing, code quality checks) - YES/NO Proficiency in deploying applications on container platforms like Kubernetes or OpenShift - YES/NO Experience with infrastructure automation tools such as Ansible, Terraform, or Helm - YES/NO Familiarity with Dell solution platforms (e.g., VxRail) or the VMware ecosystem (vSphere) - YES/NO
